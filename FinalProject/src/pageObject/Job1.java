@@ -143,18 +143,4 @@ public class Job1 extends SharedPage {
 
 	}
 
-	// public void fillTags(String tags) {
-	// fillText(tagsFiled, tags);
-	// }
-
-	// public void saveTask() {
-	// click(saveTask);
-	// ;
-	// }
-	//
-	// public void cancleTask() {
-	// click(cancleTask);
-	// ;
-	// }
-
 }
